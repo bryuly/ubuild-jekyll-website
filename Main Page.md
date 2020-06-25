@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: ''
-date: 
+title: Welcome Page
+date: 2020-06-25 21:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
