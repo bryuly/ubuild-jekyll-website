@@ -9,6 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
+  - link: "#Products"
+    link_text: Products
   - link: "#features"
     link_text: Features
   - link: "#pricing"
