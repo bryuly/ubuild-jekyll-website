@@ -16,7 +16,7 @@ page_sections:
   - link: "#team"
     link_text: Team
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
+    url: https://docs.google.com/forms/d/e/1FAIpQLSdlkvAdPTDOUl78qp76yxvbZFHP44AFryOxxBS7QVvvhSCRNA/viewform?entry.1342250730=0&entry.1177031248=0&entry.752671537=0&entry.1691586762=0&entry.178173124=0&entry.187508=0&entry.13186816=0&entry.939251624=0&entry.718558651=0&entry.821251045=0&entry.1561763660=0
     button_text: Order
 - template: hero-banner-w-image
   block: hero-2
